@@ -1,14 +1,15 @@
 ## FastCommander
 is a dual panel, native, fast, lightweight file manager for OS X.
 
-## LICENSE
+#### LICENSE
 FastCommander CE - Community Edition is licensed under GNU GPL v2.0.
 
-## AUTHOR
+#### AUTHOR
 PIOTR ZAGAWA, POLAND
 
-## HELP WITH DEVELOPMENT
+#### HELP WITH DEVELOPMENT
 You can fork project and send me a pull request to share your improvements with others.
 
-## WEBSITE
+#### WEBSITE
+(fastcommander.com)
 http://osx-fastcommander.appspot.com
