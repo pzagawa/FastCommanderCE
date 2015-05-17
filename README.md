@@ -7,6 +7,9 @@ PIOTR ZAGAWA, POLAND
 #### HELP WITH DEVELOPMENT
 You can fork project and send me a pull request to share your improvements with others.
 
+#### SOURCE CODE
+* https://github.com/pzagawa/FastCommanderCE
+
 #### WEBSITE
 * http://fastcommander.com
 * http://osx-fastcommander.appspot.com
