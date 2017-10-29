@@ -80,6 +80,8 @@ typedef enum
     FMKeyCode_Asterisk = 0x43,
     FMKeyCode_1 = 0x12,
     FMKeyCode_2 = 0x13,
+    FMKeyCode_Left = 123,
+    FMKeyCode_Right = 124
     
 } FMKeyCode;
 
