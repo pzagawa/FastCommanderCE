@@ -3,9 +3,6 @@ is a dual panel, native, fast, lightweight file manager for OS X.
 
 Created in 2013, as a personal learning project for Objective-C and OS X platform.
 
-#### AUTHOR
-PIOTR ZAGAWA, POLAND
-
 ![fc-main-small](https://user-images.githubusercontent.com/3949132/176720148-6eeee502-ca54-4663-8b03-5d03a64eb0e6.png)
 ![clean-ui-2](https://user-images.githubusercontent.com/3949132/176720203-4f601123-d019-4b3a-9928-37de717e244f.png)
 ![theme-sublime](https://user-images.githubusercontent.com/3949132/176720223-e530ff8b-a597-47af-a2ff-70113af90304.png)
