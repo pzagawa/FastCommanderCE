@@ -1,5 +1,5 @@
 ## FastCommander
-is a dual panel, native, fast, lightweight file manager for OS X.
+A a dual panel, native, fast, lightweight file manager for OS X.
 
 Created in 2013, as a personal learning project for Objective-C and OS X platform.
 
