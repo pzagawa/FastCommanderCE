@@ -248,14 +248,14 @@
     }
     
     //PAGE UP
-    if (theEvent.keyCode == FMKeyCode_PageUp)
+    if (theEvent.keyCode == FMKeyCode_PageUp || theEvent.keyCode == FMKeyCode_Left)
     {
         [self selectRowPageUp];
         return YES;
     }
     
     //PAGE DOWN
-    if (theEvent.keyCode == FMKeyCode_PageDown)
+    if (theEvent.keyCode == FMKeyCode_PageDown || theEvent.keyCode == FMKeyCode_Right)
     {
         [self selectRowPageDown];
         return YES;
